@@ -16,3 +16,9 @@ Es wurde separat noch eine Analyse über die durchschnittliche Gehaltentwicklung
 Unsere Dokumentation befindet sich im Ordner "Dokumentation"
 - <strong>Die schriftliche Dokumentation</strong> befindet sich in [/Dokumentation/project_report_Payio.pdf](/Dokumentation/project_report_Payio.pdf)
 - <strong>Die Präsentation</strong> befindet sich in [/Dokumentation/project_presentation_Payio.pdf](/Dokumentation/project_presentation_Payio.pdf)
+
+
+## Ausführung
+Es wird empfohlen, die Anwendung innerhalb der Anaconda Umgebung auszuführen, da diese die meisten Bibliotheken enthält und man somit keine Pakete separat herunterladen musst. \
+Um die Code-Blöcke ausführen zu lassen, klickt man jeweils immer auf Play bei dem jeweiligen Code-Block. \
+Es ist zu beachten, dass sich die Datensätzen in demselben Ordner wie die Jupyter Notebook Dateien befinden müssen.
